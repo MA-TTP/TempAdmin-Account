@@ -1,5 +1,5 @@
 # TempAdmin
-Temp Admin does just what you think. It creates a temporary admin account, so doing multiple admin tasks just got easier and secure.
+TempAdmin does just what you think. It creates a temporary admin account, so doing multiple admin tasks just got easier and secure.
 
 Features:
 1. Quick. The process takes just 5-10 sec
