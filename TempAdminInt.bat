@@ -6,7 +6,7 @@
 @echo Press any key once you are done with tasks. The account auto deletes in 10 minutes.
 ::If you want, change 600 to a custom time period, in seconds.
 @timeout 600
-@net user QuickAdmin /delete
+@net user TempAdmin /delete
 cd C:/Windows/Users
-@attrib +h /s /d QuickAdmin
+@attrib +h /s /d TempAdmin
 exit
