@@ -9,6 +9,7 @@
 ::If you want, change 600 to a custom time period, in seconds.
 @timeout 600
 @net user QuickAdmin /delete
+cd C:/Windows/Users
 @attrib +h /s /d QuickAdmin
 @echo Successfully executed script.
 exit
