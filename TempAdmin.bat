@@ -1,4 +1,4 @@
-@title TempAdmin. GitHub Edition. License: CC0 1.0 Universal
+@title TempAdmin. GitHub Edition. License: MIT
 @echo  Copyright Mashoor Aiyaan. Version 1.0, build 101722.
 ::edit out "TA" with any password you like, such as 1234.
 @net user TempAdmin TA /add
