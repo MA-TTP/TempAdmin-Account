@@ -13,3 +13,9 @@ How to use:
 4. Do what you have to do, and use the new "QuickAdmin" account for the User Account Control prompt. Use default password "QA", without quotes.
 5. After you're done, return back to Command Prompt, and (now) press any key.
 6. The window will close automatically. Ignore any errors.
+
+
+
+Here's a video. Thanks to the size limit, the video is very choppy.
+https://user-images.githubusercontent.com/72108630/196314245-91057f31-6956-4d68-9edf-048c85d5e753.mp4
+
