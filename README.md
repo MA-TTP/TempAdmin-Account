@@ -14,7 +14,7 @@ How to use:
 5. After you're done, return back to Command Prompt, and (now) press any key.
 6. The window will close automatically. Ignore any errors.
 
-
+(The script can also be intergrated into other scripts. Coming Soon!)
 
 Here's a video. Thanks to the size limit, the video is very choppy.
 https://user-images.githubusercontent.com/72108630/196314245-91057f31-6956-4d68-9edf-048c85d5e753.mp4
