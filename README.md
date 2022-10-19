@@ -7,12 +7,13 @@ Features:
 3. Secure. Account auto deletes in 10 minutes (default), and no having to copy your own password to the clipboard, or having to use the very insecure "super Admin" account.
 
 How to use:
-1. Right click the file, and run as Admin
-2. Enter your own password
-3. wait until the app says "Press any key to continue." DO NOT press anything, or the new account will be deleted.
-4. Do what you have to do, and use the new "TempAdmin" account for the User Account Control prompt. Use default password "TA", without quotes.
-5. After you're done, return back to Command Prompt, and (now) press any key.
-6. The window will close automatically. Ignore any errors.
+1. Download the repository, and unzip it.
+2. Copy "TempAdmin.bat" to another place, such as the desktop
+3. Enter your own password in the UAC Prompt.
+4. wait until the app says "Press any key to continue." DO NOT press anything, or the new account will be deleted.
+5. Do what you have to do, and use the new "TempAdmin" account for the User Account Control prompt. Use default password "TA", which is copied to the clipboard.
+6. After you're done, return back to Command Prompt, and (now) press any key.
+7. The window will close automatically. Ignore any errors.
 
 (The script can also be intergrated into other scripts. Coming Soon!)
 
