@@ -1,6 +1,6 @@
 @title TempAdmin internal. GitHub Edition. License: MIT
 @echo  Copyright Mashoor Aiyaan. Version 1.0, build 101922. This script is to be used in another script.
-::edit out "TA" with any password you like, such as 1234.
+::edit out "TA" with any password you like, such as 1234. Also edit out TA with new password on line 8.
 @net user TempAdmin TA /add
 @net localgroup Administrators TempAdmin /add
 @echo Press any key once you are done with tasks. The account auto deletes in 10 minutes.
@@ -8,6 +8,6 @@
 @echo TA|clip
 @timeout 600
 @net user TempAdmin /delete
-cd C:/Windows/Users
+@cd C:/Windows/Users
 @attrib +h /s /d TempAdmin
 exit
