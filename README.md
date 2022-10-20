@@ -8,8 +8,8 @@ Features:
 
 
 How to use:
-1. Download the repository, and open (not unzip) the flie. To download, click the green button labeled "Code", and click "Download ZIP"
-2. Copy "TempAdmin.bat" to another place, such as the desktop. 
+1. Download the latest release
+2. Copy "TempAdmin.cmd" to another place, such as the desktop. 
 3. Right click the file, and run as admin. You will see SmartScreen pop up.* Click "More info", then in the bottom, click "Run anyway."*
 4. Enter your own password in the UAC Prompt.
 5. wait until the app says "Press any key to continue." DO NOT press anything, or the new account will be deleted.
@@ -21,7 +21,7 @@ How to use:
 
 *SmartScreen always flags bat files from the internet. You will only see it the first time you run this. 
 VirusTotal result: https://www.virustotal.com/gui/file/5341cbdec64cf1557bee6abccbaaf49696e903d9f62b14f78e7cfd6742f5c9b3?nocache=1 
-("TempAdmin.bat", 1.0, build 101922)
+("TempAdmin.cmd", 1.0, build 101922)
 File hash: 5341cbdec64cf1557bee6abccbaaf49696e903d9f62b14f78e7cfd6742f5c9b3
 
 
