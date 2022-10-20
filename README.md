@@ -5,7 +5,7 @@ Features:
 1. Quick. The process takes just 5-10 sec
 2. Easy. Just type 2 letters, and admin access is granted
 3. Secure. Account auto deletes in 10 minutes (default), and no having to copy your own password to the clipboard, or having to use the very insecure "super Admin" account.
-
+Click here to download
 How to use:
 1. Download the repository, and open (not unzip) the flie.
 2. Copy "TempAdmin.bat" to another place, such as the desktop. 
