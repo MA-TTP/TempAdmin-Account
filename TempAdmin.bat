@@ -11,7 +11,7 @@
 ::If you want, change 600 to a custom time period, in seconds.
 @timeout 600
 @net user TempAdmin /delete
-cd C:/Windows/Users
+@cd C:/Windows/Users
 @attrib +h /s /d TempAdmin
 @echo Successfully executed script. You can now close this window
 @timeout 120
