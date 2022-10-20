@@ -16,7 +16,8 @@ How to use:
 7. After you're done, return back to Command Prompt, and (now) press any key.
 8. The window will close automatically. Ignore any errors.
 
-(The script can also be intergrated into other scripts. Coming Soon!)
+(The script can also be intergrated into other scripts. Use file TempAdminint.bat)
+
 *SmartScreen always flags bat files from the internet. You will only see it the first time you run this. 
 VirusTotal result: https://www.virustotal.com/gui/file/5341cbdec64cf1557bee6abccbaaf49696e903d9f62b14f78e7cfd6742f5c9b3?nocache=1 
 (for "TempAdmin.bat, 1.0, build 101922
