@@ -5,7 +5,7 @@ Features:
 1. Quick. The process takes just 5-10 sec
 2. Easy. Just type 2 letters, and admin access is granted
 3. Secure. Account auto deletes in 10 minutes (default), and no having to copy your own password to the clipboard, or having to use the very insecure "super Admin" account.
-Click here to download
+Click here to download : 
 How to use:
 1. Download the repository, and open (not unzip) the flie.
 2. Copy "TempAdmin.bat" to another place, such as the desktop. 
@@ -18,6 +18,8 @@ How to use:
 
 (The script can also be intergrated into other scripts. Coming Soon!)
 *SmartScreen always flags bat files from the internet. You will only see it the first time you run this. 
-VirusTotal result: 
+VirusTotal result: https://www.virustotal.com/gui/file/5341cbdec64cf1557bee6abccbaaf49696e903d9f62b14f78e7cfd6742f5c9b3?nocache=1 
+(for "TempAdmin.bat, 1.0, build 101922
+flie hash: 5341cbdec64cf1557bee6abccbaaf49696e903d9f62b14f78e7cfd6742f5c9b3
 
 
